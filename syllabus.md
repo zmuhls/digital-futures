@@ -111,17 +111,17 @@ Homework:
     - Due: upload second draft of Digital Literacy Narrative to submission portal by next class (3/7)
 
 Day 9 (3/7)
-
 Homework: 
 
-    - View: Citizenfour directed by Laura Poitras
-    - Read and annotate: The NSA Files: Decoded by Ewen Macaskill & Gabriel Dance
+    - Read and annotate: Surveillance Culture: Engagement, Exposure, & Digital Modernity by David Lyon
+    - Finish viewing: Citizenfour directed by Laura Poitras
+           - Optionally browse: The NSA Files: Decoded by Ewen Macaskill & Gabriel Dance
 
 Day 10 (3/9)
 
-    - View: The Internet’s Own Boy: The Story of Aaron Swartz directed by Brian Knappenberger
     - Read and annotate: Long Live the Web by Tim Berners-Lee
-
+    - View: The Internet’s Own Boy: The Story of Aaron Swartz directed by Brian Knappenberger
+   
 Day 11 (3/14)
 
     - Due: publish blog post in response to either Citizenfour OR The Internet’s Own Boy
